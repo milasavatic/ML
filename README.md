@@ -1,6 +1,6 @@
 ML — Machine Learning Project
 
-This repository contains machine learning project.
+This repository contains a machine learning project.
 
 ## Titanic Project
 
