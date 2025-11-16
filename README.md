@@ -20,6 +20,6 @@ ML_Lab5.ipynb covers:
 
 - Python
 - Jupyter Notebook
-- NumPy / Pandas
+- NumPy/ Pandas
 - Scikit-learn
-- Matplotlib / Seaborn
+- Matplotlib/ Seaborn
