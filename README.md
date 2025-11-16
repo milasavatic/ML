@@ -4,7 +4,7 @@ This repository contains a machine learning project.
 
 ## Titanic Project
 
-A classic ML exercise — predicting survival on the Titanic using common data science techniques (data cleaning, feature engineering, model training).
+A classic ML exercise - predicting survival on the Titanic using common data science techniques (data cleaning, feature engineering, model training).
 
 ## Notebook Overview
 
